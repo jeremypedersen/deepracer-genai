@@ -1,3 +1,5 @@
+**Last Updated: 2024-07-15**
+
 # DeepRacer GenAI
 
 A port of the Amazon AWS [DPR401 Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d8a88732-5154-49ac-9725-033c0bc74029/en-US/20-environment-setup#set-up-the-sagemaker-studio-notebook-workspace) into Chinese. 
