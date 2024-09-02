@@ -1,4 +1,5 @@
-**Last Updated: 2024-07-15**
+- **Last Updated:** 2024-09-02
+- **Last Tested:** PENDING
 
 # DeepRacer GenAI
 

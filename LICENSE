@@ -1,2 +1,3 @@
-See the original DeepRacer lab for license details: [DPR401 Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d8a88732-5154-49ac-9725-033c0bc74029/en-US/20-environment-setup#set-up-the-sagemaker-studio-notebook-workspace)
+I was not able to locate license information for this code. However, it was adapted directly from an Amazon AWS Workshop Studio lab, so it (should) be under whichever license Amazon AWS uses for publish Workshop Studio code:
 
+https://catalog.us-east-1.prod.workshops.aws/workshops/d8a88732-5154-49ac-9725-033c0bc74029/en-US/20-environment-setup#set-up-the-sagemaker-studio-notebook-workspace
