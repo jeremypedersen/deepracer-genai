@@ -1,5 +1,5 @@
 - **Last Updated:** 2024-09-02
-- **Last Tested:** PENDING
+- **Last Tested:** (Not tested since early 2024 - no plans to test again as the repo is archived) 
 
 # DeepRacer GenAI
 
